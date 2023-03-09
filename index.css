@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-weight: 800;
+}
+
+.container-fluid,.navbar-brand{
+    color: rgb(0, 255, 255) !important;
+}
+.nav-link:hover{
+    background-color: #6093e0;
+    border-radius: 6px;
+}
+.nav-item,.nav-link{
+    font-weight: 600;
+    
+
+}
+
